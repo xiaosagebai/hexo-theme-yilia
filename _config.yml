@@ -2,7 +2,9 @@
 
 menu:
   主页: /
-  随笔: /tags/随笔/
+  归档: /archives
+  分类: /categories
+  标签: /tags
 
 # SubNav
 subnav:
